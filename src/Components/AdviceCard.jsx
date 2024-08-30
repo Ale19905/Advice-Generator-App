@@ -20,9 +20,9 @@ export default function AdviceCard(){
         <div className="Advice_card">
             <p className="text text_id">ADVICE #{adviceID}</p>
             <p className="text">{advice}</p>
-            <img src="src\assets\pattern-divider-desktop.svg" alt=""  width={280}/>
+            <img src="public\pattern-divider-desktop.svg" alt=""  width={280}/>
             <button className="Btn" onClick={handleClick}>
-                <img src="src\assets\icon-dice.svg" alt="imagen del boton" />
+                <img src="public\icon-dice.svg" alt="imagen del boton" />
             </button>
         </div>
     )

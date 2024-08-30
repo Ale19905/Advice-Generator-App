@@ -40,6 +40,7 @@
   position: relative;
   bottom: -20px;
   scale: (1);
+  cursor: pointer;
 }
 
 .Btn:hover{

@@ -1,4 +1,4 @@
-import AdviceCard from "../Components/AdviceCard"
+import AdviceCard from "./Components/AdviceCard"
 
 export default function App() {
   
